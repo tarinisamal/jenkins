@@ -33,6 +33,7 @@ public class AppTest
      */
     public void testApp()
     {
+    	System.out.println("Test Execution Tarini");
         assertTrue( true );
     }
 }
